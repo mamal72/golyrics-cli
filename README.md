@@ -1,4 +1,4 @@
-# golyrics-cli
+# 🎵 golyrics-cli
 
 A command line client for [golyrics](https://github.com/mamal72/golyrics).
 
