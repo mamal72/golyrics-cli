@@ -14,6 +14,10 @@ go get github.com/erbesharat/golyrics-cli
 golyrics-cli "Blackfield:Some Day"
 ```
 
+## TODO
+
+- [ ] Add proxy support
+
 ## Contributing
 
 1. Fork it
@@ -23,4 +27,5 @@ golyrics-cli "Blackfield:Some Day"
 5. Create new Pull Request
 
 ## License
+
 > MIT
