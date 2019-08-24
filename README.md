@@ -5,7 +5,7 @@ A command line client for [golyrics](https://github.com/mamal72/golyrics).
 ## Installation
 ```bash
 
-go get github.com/erbesharat/golyrics-cli
+go get github.com/mamal72/golyrics-cli
 ```
 
 ## Usage
